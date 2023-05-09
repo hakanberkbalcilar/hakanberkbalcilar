@@ -4,10 +4,10 @@
 </p>
 <h3 align="center">📱 Mobile Developer | 🖥️ Backend Developer</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hakanberkbalcilar/" target="_blank">
+  <a href="https://www.linkedin.com/in/hakan-balcılar-b7a3901a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/hakanberkbalcilar" target="_blank">
+  <a href="https://twitter.com/hakanbalcilar98" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 <p align="center">
-  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/tree/master/blob/main/android_studio.png" width="50%" alt="Android Studio" />
+  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/blob/master/blob/main/android_studio.png" width="200" alt="Android Studio" />
 </p>
 <h3 align="center">Backend Development</h3>
 <p align="center">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 <p align="center">
-  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/tree/master/blob/main/net_core.png" width="50%" alt=".NET Core" />
+  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/blob/master/blob/main/net_core.png" width="200" alt=".NET Core" />
 </p>
 <h2 align="center">📈 Stats</h2>
 <p align="center">
@@ -43,10 +43,10 @@
 </p>
 <h2 align="center">📫 Contact</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hakanberkbalcilar/" target="_blank">
+  <a href="https://www.linkedin.com/in/hakan-balcılar-b7a3901a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/hakanberkbalcilar" target="_blank">
+  <a href="https://twitter.com/hakanbalcilar98" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
