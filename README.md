@@ -1,7 +1,5 @@
-
-# Hey there! 👋
-
-I'm Hakan, a software developer and technology enthusiast. Welcome to my GitHub profile!
+<h1>Hi there, I'm Hakan Berk Balcilar 👋</h1>
+<h3>📱 Mobile Developer | 🖥️ Backend Developer</h3>
 
 ## 📈 GitHub Stats
 
