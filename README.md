@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hakan Berk Balcilar 👋</h1>
 <p align="center">
-  <img width="40%" src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/blob/main/banner.gif" alt="banner" />
+  <img width="40%" src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/tree/master/blob/main/banner.gif" alt="banner" />
 </p>
 <h3 align="center">📱 Mobile Developer | 🖥️ Backend Developer</h3>
 <p align="center">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 <p align="center">
-  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/blob/main/android_studio.png" width="50%" alt="Android Studio" />
+  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/tree/master/blob/main/android_studio.png" width="50%" alt="Android Studio" />
 </p>
 <h3 align="center">Backend Development</h3>
 <p align="center">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 <p align="center">
-  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/blob/main/net_core.png" width="50%" alt=".NET Core" />
+  <img src="https://github.com/hakanberkbalcilar/hakanberkbalcilar/tree/master/blob/main/net_core.png" width="50%" alt=".NET Core" />
 </p>
 <h2 align="center">📈 Stats</h2>
 <p align="center">
