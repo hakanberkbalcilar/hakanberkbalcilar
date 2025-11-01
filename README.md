@@ -10,7 +10,7 @@
 - **Programming Languages:** Kotlin, Dart, C#
 - **Mobile Development:** Flutter, Jetpack Compose
 - **Web Development:** .NET Core
-- **Databases:** MySQL, MongoDB
+- **Databases:** PostgreSql, MongoDB
 - **Other Tools & Technologies:** Git, Docker, AWS
 
 Feel free to explore my repositories to see some of the projects I've been working on!
