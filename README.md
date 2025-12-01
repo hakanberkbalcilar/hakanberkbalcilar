@@ -110,9 +110,7 @@ Performance Engineering: Leveraging Rust bridging and MethodChannels for native-
 <div align="center">
 <h3>📊 GitHub Analytics</h3>
 
-<p>
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-</p>
+
 <p>
 <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
 <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commits" />
