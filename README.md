@@ -120,12 +120,6 @@ Performance Engineering: Leveraging Rust bridging and MethodChannels for native-
 <br />
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanberkbalcilar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 <br />
 <i>"Architecture is about making important decisions that are hard to change later."</i>
